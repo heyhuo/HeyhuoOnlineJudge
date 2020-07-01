@@ -1,10 +1,10 @@
  spring:
-  port: 8080
+  port: 8081
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://127.0.0.1:3306/vjdol
-    username: huoshan
-    password: huoshan
+    url: jdbc:mysql://127.0.0.1:3306/voj
+    username: root
+    password: 8888888
 #  jpa:
 #    hibernate:
 #      ddl-auto: update
